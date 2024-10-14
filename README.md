@@ -12,5 +12,8 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark" />
 </div>
 
+<!-- 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/arin101230523/arin101230523/output/github-contribution-grid-snake-dark.svg)
+-->
+
