@@ -26,7 +26,7 @@
 - 🌱 **Currently learning:** Advanced AI concepts, machine learning models, mathematics, and quantitative analysis for finance.
 - 🤝 **Looking to collaborate on** impactful projects, particularly in AI, data-driven decision-making, and innovative software solutions.
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/arin-sood), [arinsood2305@gmail.com](mailto:arinsood2305@gmail.com), or [arin.sood@utdallas.edu](mailto:arin.sood@utdallas.edu).
-- 💡 **Fun fact:** I love playing fantasy football and basketball even though I'm not great at it!
+- 💡 **Fun fact:** I love playing fantasy football and basketball even though I'm terrible at both.
 
 ---
 
