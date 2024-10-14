@@ -6,23 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Arin!;" />
   
   <div align="center"> 
-  <a href="mailto:arinsood2305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/arin-sood" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://arin101230523.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+    <a href="mailto:arinsood2305@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/arin-sood" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://arin101230523.github.io/Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+  </div>
 </h1>
-
 
 - 👀 I’m interested in Computer Science, Artificial Intelligence, Machine Learning, Software Development, and Quantitative Finance.
 - 🌱 I’m currently learning advanced concepts in AI, machine learning models, mathematics, and quantitative analysis for finance.
 - 💞️ I’m looking to collaborate on projects that have real-world impact, particularly those that involve AI, data-driven decision-making, and innovative software solutions.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](www.linkedin.com/in/arin-sood) or email me at [arinsood2305@gmail.com](mailto:arinsood2305@gmail.com) or [arin.sood@utdallas.edu](mailto:arin.sood@utdallas.edu) for any inquiries or if you just want to chat!.
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arin-sood) or email me at [arinsood2305@gmail.com](mailto:arinsood2305@gmail.com) or [arin.sood@utdallas.edu](mailto:arin.sood@utdallas.edu) for any inquiries or if you just want to chat!.
 - 💡 Fun fact: I love playing fantasy football and basketball even though I am terrible at both.
 
 ## Some Stats ⚡
@@ -38,4 +37,3 @@
   
   <br/><br/><br/>
 </div>
-
