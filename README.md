@@ -25,7 +25,7 @@
 - 👀 **I’m interested in** Computer Science, Artificial Intelligence, Machine Learning, Software Development, and Quantitative Finance.
 - 🌱 **Currently learning:** Advanced AI concepts, machine learning models, mathematics, and quantitative analysis for finance.
 - 🤝 **Looking to collaborate on** impactful projects, particularly in AI, data-driven decision-making, and innovative software solutions.
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/arin-sood), [arinsood2305@gmail.com](mailto:arinsood2305@gmail.com), or [arin.sood@utdallas.edu](mailto:arin.sood@utdallas.edu).
+- 📫 **Reach me at:** [linkedin.com/arin-sood](https://www.linkedin.com/in/arin-sood), [arinsood2305@gmail.com](mailto:arinsood2305@gmail.com), or [arin.sood@utdallas.edu](mailto:arin.sood@utdallas.edu).
 - 💡 **Fun fact:** I love playing fantasy football and basketball even though I'm terrible at both.
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-<h2 align="center">🌟 Contributions</h2>
+<h2 align="center">🌟 Contributions 🌱</h2>
 <div align="center">
   <img alt="Contributions" src="https://raw.githubusercontent.com/arin101230523/arin101230523/output/github-contribution-grid-snake.svg" />
 </div>
