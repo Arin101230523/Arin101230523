@@ -42,15 +42,21 @@
 
 <h2 align="center">📊 Some Stats ⚡</h2>
 <div align="center">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=arin101230523&theme=github" alt="Contribution Graph" loading = "lazy">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark" alt="Streak Stats" loading = "lazy"/>
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark" alt="Streak Stats" loading = "lazy"/>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=arin101230523&theme=github">
+    <img width="440px" src="https://via.placeholder.com/440x200?text=Click+to+Load+Contribution+Graph" alt="Contribution Graph Placeholder">
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark">
+    <img width="385px" src="https://via.placeholder.com/385x200?text=Click+to+Load+Streak+Stats" alt="Streak Stats Placeholder">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark">
+    <img width="385px" src="https://via.placeholder.com/385x200?text=Click+to+Load+Top+Languages" alt="Top Languages Placeholder">
+  </a>
 </div>
-
----
 
 <h2 align="center">🌟 Contributions 🌱</h2>
 <div align="center">
-  <img alt="Contributions" src="https://raw.githubusercontent.com/arin101230523/arin101230523/output/github-contribution-grid-snake.svg" loading = "lazy"/>
+  <a href="https://raw.githubusercontent.com/arin101230523/arin101230523/output/github-contribution-grid-snake.svg">
+    <img src="https://via.placeholder.com/400x200?text=Click+to+Load+Contribution+Snake" alt="Contribution Snake Placeholder">
+  </a>
 </div>
 <br/><br/><br/>
