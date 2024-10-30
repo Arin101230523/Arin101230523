@@ -36,9 +36,9 @@
 
 <h2 align="center">📊 Some Stats ⚡</h2>
 <div align="center">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=arin101230523&theme=github" alt="Contribution Graph">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark" alt="Streak Stats" />
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark" alt="Streak Stats" />
+  <img loading = "lazy" width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=arin101230523&theme=github" alt="Contribution Graph">
+  <img loading = "lazy" width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark" alt="Streak Stats" />
+  <img loading = "lazy" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark" alt="Streak Stats" />
 </div>
 
 ---
