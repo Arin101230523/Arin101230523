@@ -53,7 +53,7 @@
 <img 
   loading="lazy" 
   width="385px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c,lua&layout=compact&theme=onedark" 
   alt="Top Languages" 
   onerror="this.src='https://via.placeholder.com/385x150?text=Languages+Unavailable';"
 />
