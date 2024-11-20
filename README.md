@@ -41,21 +41,21 @@
   width="440px" 
   src="https://github-readme-activity-graph.vercel.app/graph?username=arin101230523&theme=github" 
   alt="Contribution Graph" 
-  onerror="this.style.display='none';"
+  onerror="this.src='https://via.placeholder.com/440x150?text=Graph+Unavailable';"
 />
 <img 
   loading="lazy" 
   width="385px" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark" 
   alt="Streak Stats" 
-  onerror="this.style.display='none';"
+  onerror="this.src='https://via.placeholder.com/385x150?text=Stats+Unavailable';"
 />
 <img 
   loading="lazy" 
   width="385px" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=adimail&hide=jupyter%20notebook,html,c&layout=compact&theme=onedark" 
   alt="Top Languages" 
-  onerror="this.style.display='none';"
+  onerror="this.src='https://via.placeholder.com/385x150?text=Languages+Unavailable';"
 />
 </div>
 
