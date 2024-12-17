@@ -46,7 +46,7 @@
 <img 
   loading="lazy" 
   width="385px" 
-  src="https://github-readme-streak-stats-1l2ou4r74-arin101230523s-projects.vercel.app/?user=Arin101230523&theme=onedark"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=arin101230523&theme=onedark"
   alt="Streak Stats" 
   onerror="this.src='https://via.placeholder.com/385x150?text=Stats+Unavailable';"
 />
